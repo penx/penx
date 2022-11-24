@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **penx/penx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <details><summary>My Open Source Projects</summary>
-
-## Drawing
-
-- [cairo-edit](https://github.com/penx/cairo-edit)
 
 ## Audio
 
@@ -41,9 +35,9 @@ Here are some ideas to get you started:
   - [#70693](https://github.com/microsoft/vscode/pull/70693) added node module resolution for "Go to definition" in CSS files.
   - [#81555](https://github.com/microsoft/vscode/pull/81555) Fixed regression.
 
-## Experiments
+## Drawing
 
-- [server-components-ssr](https://github.com/penx/server-components-ssr)
+- [cairo-edit](https://github.com/penx/cairo-edit)
 
 ## APIs/mocks
 
@@ -52,21 +46,25 @@ Here are some ideas to get you started:
 - [api-binary-proxy](https://github.com/penx/api-binary-proxy)
 - [graphiql-middleware](https://github.com/penx/graphiql-middleware)
 
-## React Utils
+## React & Remix
 
+- [server-components-ssr](https://github.com/penx/server-components-ssr)
+- [remix-google-cloud-functions](https://www.npmjs.com/package/remix-google-cloud-functions)
+- [remix-firebase](https://www.npmjs.com/package/remix-firebase)
 - [use-async-query](https://github.com/penx/use-async-query)
 - [react-native-accessibility-props](https://github.com/penx/react-native-accessibility-props)
+- [multi-input-input](https://github.com/penx/multi-input-input)
 
-<!-- ### Old
+### Old React stuff
 
 - [as-nav-link](https://github.com/penx/as-nav-link)
 - [manage-state](https://github.com/penx/manage-state)
 - [merge-focus](https://github.com/penx/merge-focus)
-- [react-merge-values](https://github.com/penx/react-merge-values)
 - [nav-link-with-prop](https://github.com/penx/nav-link-with-prop)
 - [nested-browser-router](https://github.com/penx/nested-browser-router)
+- [react-merge-values](https://github.com/penx/react-merge-values)
+- [react-router-redux-utils](https://github.com/penx/react-router-redux-utils)
 - [render-glamorous](https://github.com/penx/render-glamorous)
-- [react-router-redux-utils](https://github.com/penx/react-router-redux-utils) -->
 
 ## CLI Tools
 
@@ -80,13 +78,22 @@ Here are some ideas to get you started:
 - [storybook-code-coverage](https://github.com/penx/storybook-code-coverage)
 - [ajm.universal-react](https://github.com/penx/ajm.universal-react)
 
-## Misc
+## Monorepo tools
+
+- [workspace-alias](https://github.com/penx/workspace-alias)
+
+## Linting
+
+- [eslint-config-sonar](https://github.com/penx/eslint-config-sonar)
+
+## Misc 3rd party lib contributions
 
 - [bundlesize](https://github.com/siddharthkp/bundlesize)
 - [fastify-secrets-hashicorp](https://github.com/nearform/fastify-secrets-hashicorp)
 - [@nearform/sql](https://github.com/nearform/sql)
-- [workspace-alias](https://github.com/penx/workspace-alias)
-- [eslint-config-sonar](https://github.com/penx/eslint-config-sonar )
+
+## Misc
+
 - [aem-version](https://github.com/penx/aem-version)
 
 </details>
